@@ -23,4 +23,3 @@ Design a schema and create the necessary migrations and models to represent citi
 * Draw out the ER Diagram on paper so that you can understand what data you will need to save and the relationships that you will need to create.
 * Test your models in `pry` by running `pry -r "./app.rb"`.
 * You do not need to add any routes to the application to make the app functional.
-
