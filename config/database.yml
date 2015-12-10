@@ -1,0 +1,14 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: nations_development
+  pool: 5
+  username:
+  password:
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: nations_test
+  pool: 5
+  username:
+  password:
